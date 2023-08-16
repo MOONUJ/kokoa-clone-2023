@@ -16,3 +16,7 @@
 .settings__setting__column:last-child {
     opacity: 0.5;
 }
+
+#settings .alt-screen-header {
+    margin-top: 35px;
+}
